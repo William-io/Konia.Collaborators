@@ -1,0 +1,15 @@
+/home/william/Desktop/_data/Konia.Collaborators/Source/App/bin/Debug/net6.0/App
+/home/william/Desktop/_data/Konia.Collaborators/Source/App/bin/Debug/net6.0/App.deps.json
+/home/william/Desktop/_data/Konia.Collaborators/Source/App/bin/Debug/net6.0/App.runtimeconfig.json
+/home/william/Desktop/_data/Konia.Collaborators/Source/App/bin/Debug/net6.0/App.dll
+/home/william/Desktop/_data/Konia.Collaborators/Source/App/bin/Debug/net6.0/ref/App.dll
+/home/william/Desktop/_data/Konia.Collaborators/Source/App/bin/Debug/net6.0/App.pdb
+/home/william/Desktop/_data/Konia.Collaborators/Source/App/obj/Debug/net6.0/App.csproj.AssemblyReference.cache
+/home/william/Desktop/_data/Konia.Collaborators/Source/App/obj/Debug/net6.0/App.GeneratedMSBuildEditorConfig.editorconfig
+/home/william/Desktop/_data/Konia.Collaborators/Source/App/obj/Debug/net6.0/App.AssemblyInfoInputs.cache
+/home/william/Desktop/_data/Konia.Collaborators/Source/App/obj/Debug/net6.0/App.AssemblyInfo.cs
+/home/william/Desktop/_data/Konia.Collaborators/Source/App/obj/Debug/net6.0/App.csproj.CoreCompileInputs.cache
+/home/william/Desktop/_data/Konia.Collaborators/Source/App/obj/Debug/net6.0/App.dll
+/home/william/Desktop/_data/Konia.Collaborators/Source/App/obj/Debug/net6.0/ref/App.dll
+/home/william/Desktop/_data/Konia.Collaborators/Source/App/obj/Debug/net6.0/App.pdb
+/home/william/Desktop/_data/Konia.Collaborators/Source/App/obj/Debug/net6.0/App.genruntimeconfig.cache
